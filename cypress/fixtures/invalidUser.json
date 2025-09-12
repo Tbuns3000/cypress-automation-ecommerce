@@ -1,0 +1,20 @@
+{
+  "firstName": "Dylan",
+  "lastName": "Cupido",
+  "username": "Deereen",
+  "password": "buldak123",
+  "email": "cupid@example.com",
+  "dob": {
+    "days": "21",
+    "months": "July",
+    "years": "1997"
+  },
+  "company": "redAcademy",
+  "address": "3 Downing Street",
+  "address2": "Apartment 7",
+  "country": "Australia",
+  "state": "Western Cape",
+  "city": "Cape Town",
+  "zipcode": "8001",
+  "mobile": "0749340305"
+}
